@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>k:/Programming/Monogame/PoseidonsWrath/PoseidonsWrath/Content/sandcastleBGM.wav</SourceFile>
+  <SourceTime>2024-05-19T17:56:47.8829557-04:00</SourceTime>
+  <DestFile>k:/Programming/Monogame/PoseidonsWrath/PoseidonsWrath/Content/bin/DesktopGL/Content/sandcastleBGM.xnb</DestFile>
+  <DestTime>2024-05-19T18:02:21.9833403-04:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>k:/Programming/Monogame/PoseidonsWrath/PoseidonsWrath/Content/bin/DesktopGL/Content/sandcastleBGM.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>

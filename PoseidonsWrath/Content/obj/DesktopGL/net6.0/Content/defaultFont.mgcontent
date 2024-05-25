@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>k:/Programming/Monogame/PoseidonsWrath/PoseidonsWrath/Content/defaultFont.spritefont</SourceFile>
+  <SourceTime>2023-10-09T09:20:46-04:00</SourceTime>
+  <DestFile>k:/Programming/Monogame/PoseidonsWrath/PoseidonsWrath/Content/bin/DesktopGL/Content/defaultFont.xnb</DestFile>
+  <DestTime>2024-05-13T15:28:49.575468-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
